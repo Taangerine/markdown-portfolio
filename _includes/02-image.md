@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Mai Sakurajima](https://images7.alphacoders.com/100/thumb-350-1002612.png)
